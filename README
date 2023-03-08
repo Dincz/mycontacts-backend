@@ -1,0 +1,7 @@
+0:assigned naems to the folder n files 
+1:download npm 
+2:setup gitignore
+3:installed dotenv and assigned a port:5001
+4.importing it to use in the server.js
+5.installed postman || tried response from the api
+6created mutiple routes { get|put()|post|delete()|get(id)}
